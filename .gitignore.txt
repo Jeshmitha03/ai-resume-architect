@@ -1,0 +1,3 @@
+.gitignore
+.env
+GOOGLE_API_KEY=AIzaSyDM2sFNue78FApJt_g9g6ZhIUSXp8dYyLI
